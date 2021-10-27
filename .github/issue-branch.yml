@@ -1,0 +1,6 @@
+mode: auto
+silent: false
+branchName: "issue-${issue.number}/${issue.title,}"
+gitSafeReplacementChar: '-'
+autoCloseIssue: true
+
