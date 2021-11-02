@@ -1,6 +1,6 @@
 mode: auto
 silent: false
-branchName: "issue-${issue.number}/${issue.title,}"
+branchName: short
 gitSafeReplacementChar: '-'
 autoCloseIssue: true
 openDraftPR: true
