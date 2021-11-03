@@ -4,4 +4,3 @@ branchName: short
 gitSafeReplacementChar: '-'
 autoCloseIssue: true
 openDraftPR: true
-copyIssueAssigneeToPR: true
