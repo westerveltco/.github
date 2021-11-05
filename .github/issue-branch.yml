@@ -1,6 +1,5 @@
 mode: auto
 silent: false
-branchName: short
 gitSafeReplacementChar: '-'
 autoCloseIssue: true
 openDraftPR: true
