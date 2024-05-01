@@ -1,0 +1,91 @@
+- name: 🐛 bug
+  color: "d73a4a"
+  description: Something isn't working
+
+- name: 🧹 chore
+  color: "cfd3d7"
+  description: Regular maintenance tasks that don't change functionality or address bugs
+
+- name: 💳 debt
+  color: "000000"
+  description: Technical debt that will need to be addressed
+
+- name: 🤖 dependabot
+  color: "0366d6"
+  description: Automated updates and changes managed by Dependabot
+
+- name: 📝 docs
+  color: "3f474e"
+  description: Enhancements, additions, or corrections to project documentation
+
+- name: 🧑‍🤝‍🧑 duplicate
+  color: "cfd3d7"
+  description: This issue or pull request already exists
+
+- name: 🧑‍💻 dx
+  color: "5319e7"
+  description: Enhancements or issues related to the developer experience and workflow
+
+- name: ✨ feature
+  color: "ddf4ff"
+  description: New feature or request
+
+- name: 👶 good first issue
+  color: "7057ff"
+  description: Good for newcomers
+
+- name: 🏋️ improvement
+  color: "fbefff"
+  description: Enhancements or optimizations to existing functionality
+
+- name: 🤷 invalid
+  color: "e4e669"
+  description: This doesn't seem right
+
+- name: 📝 needs docs
+  color: "7c8f99"
+  description: Indicates a feature or change that requires documentation
+
+- name: 🕵️ needs research
+  color: "d876e3"
+  description: An issue that requires further investigation or information gathering
+
+- name: 🧪 needs tests
+  color: "c2e0c6"
+  description: Indicates a feature or change that requires additional tests
+
+- name: 💅 nice to have
+  color: "bc4c1e"
+  description: Desirable enhancements that are not critical to the project
+
+- name: 🛠️ project
+  color: "fef2c0"
+  description: Significant, self-contained projects or sub-projects within the repository
+
+- name: 🧙 revsys
+  color: "78aff5"
+  description: Issues or tasks specifically assigned to or managed by REVSYS
+
+- name: ⚠️ security
+  color: "fbca04"
+  description: Critical security vulnerabilities that require immediate attention
+
+- name: 🎁 someday
+  color: "8541d7"
+  description: Features or enhancements to consider for future development
+
+- name: 🧪 tests
+  color: "0e8a16"
+  description: Issues or tasks related to writing or improving tests
+
+- name: 👤 user story
+  color: "bfd4f2"
+  description: General explanation of a feature written from the perspective of an end user
+
+- name: 🛑 wontfix
+  color: "ffffff"
+  description: This will not be worked on
+
+- name: 🚧 wip
+  color: "ffffff"
+  description: Still in progress and not yet ready for review
