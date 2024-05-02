@@ -59,7 +59,7 @@
   description: An issue that requires further investigation or information gathering
 
 - name: 🧪 needs tests
-  color: "c2e0c6"
+  color: "0c0a3b"
   description: Indicates a feature or change that requires additional tests
 
 - name: 💅 nice to have
