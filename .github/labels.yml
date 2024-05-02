@@ -1,3 +1,7 @@
+- name: 🚨 breaking
+  color: "ff4343"
+  description: Breaking changes
+
 - name: 🐛 bug
   color: "d73a4a"
   description: Something isn't working
