@@ -52,15 +52,15 @@
 
 - name: 📝 needs docs
   color: "7c8f99"
-  description: Indicates a feature or change that requires documentation
+  description: Feature or change that requires documentation
 
 - name: 🕵️ needs research
   color: "d876e3"
-  description: An issue that requires further investigation or information gathering
+  description: Issue that requires further investigation or information gathering
 
 - name: 🧪 needs tests
   color: "0c0a3b"
-  description: Indicates a feature or change that requires additional tests
+  description: Feature or change that requires additional tests
 
 - name: 💅 nice to have
   color: "bc4c1e"
