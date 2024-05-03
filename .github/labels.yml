@@ -6,10 +6,6 @@
   color: "d73a4a"
   description: Something isn't working
 
-- name: 👑 c-suite
-  color: "244baf"
-  description: Issues or tasks requested by the top brass
-
 - name: 🧹 chore
   color: "cfd3d7"
   description: Regular maintenance tasks that don't change functionality or address bugs
